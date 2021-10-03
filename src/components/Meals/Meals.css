@@ -1,0 +1,12 @@
+.meals-component {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+
+}
+
+.search-field {
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
